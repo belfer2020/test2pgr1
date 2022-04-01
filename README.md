@@ -1,2 +1,2 @@
 # test2pgr1
-## opis
+## opis Bartosz Cierpial
